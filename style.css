@@ -19,7 +19,21 @@
 */
 
 body {
-	background-image: url("https://raw.githubusercontent.com/brandonao/Basic-Portfolio/master/assets/images/dvsup.png");
-	background-repeat: repeat-x;
-	background-repeat: repeat-y;
+	background-image: url("https://raw.githubusercontent.com/brandonao/Basic-Portfolio/master/assets/images/paper.png");
+}
+
+h1 {
+	color: #ffffff;
+	background-color: #4aaaa5;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 36px;
+}
+
+p {
+	color: #4aaaa5;
+}
+
+#bio {
+	color: #4aaaa5;
+	background-color: #ffffff;
 }
